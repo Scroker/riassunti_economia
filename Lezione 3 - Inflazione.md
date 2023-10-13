@@ -1,6 +1,6 @@
 
 ### L'inflazione
-L'inflazione è un processo di aumento continuo e generalizzato dei prezzi dei beni destinati al consumo delle famiglie. Si misura a partire dalla costruzione di un **indice dei prezzi al consumo**, uno strumento statistico che misura le variazioni nel tempo dei prezzi di un insieme di beni chiamato **paniere**, rappresentativo dei consumi effettivi delle famiglie in uno specifico anno.
+L'inflazione è un processo di aumento continuo e generalizzato dei prezzi dei beni destinati al consumo delle famiglie. Si misura a partire dalla costruzione di un **indice dei prezzi al consumo**. Questo indice è uno strumento statistico che misura le variazioni nel tempo dei prezzi di un insieme di beni chiamato **paniere**, rappresentativo dei consumi effettivi delle famiglie in uno specifico anno.
 L'ISTAT produce **tre diversi indici dei prezzi al consumo**:
 
 - **Per l'intera collettività nazionale (NIC)**: misura l'inflazione dell'intero sistema economico; considera l'Italia come un'unica grande famiglia di consumatori, all'interno della quale le abitudini di spesa sono molto differenziate. Per gli organi di governo il NIC rappresenta il parametro da guardare per la realizzazione delle politiche economiche.

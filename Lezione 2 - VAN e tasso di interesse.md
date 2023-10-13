@@ -22,21 +22,21 @@ Dove il *costo opportunità del capitale* sarebbe il tasso di rendimento delle a
 
 ### Interessi
 Gli interessi possono essere di due tipi:
-	- **Attivi**: sono gli interessi dei creditori verso la banca, cioè maturati dal cliente sulle somme depositate in banca.
-	- **Passivi**: sono gli interessi dei debitori verso la banca, cioè dovuti dal cliente per l'utilizzo delle somme messe a disposizione dalla banca.
+- **Attivi**: sono gli interessi dei creditori verso la banca, cioè maturati dal cliente sulle somme depositate in banca.
+- **Passivi**: sono gli interessi dei debitori verso la banca, cioè dovuti dal cliente per l'utilizzo delle somme messe a disposizione dalla banca.
 
 Il calcolo degli interessi può avvenire in due modi distinti:
 
 - **Semplice**: si ha quando gli interessi sono proporzionali al capitale e al tempo, ovvero gli interessi successivi al primo rimangono sempre uguali a quello calcolato in principio.
 - **Composto**: si ha quando gli interessi non vengono restituiti alla fine di ogni periodo ma vengono **capitalizzati**, ovvero l'interesse versato viene di volta in volta sommato alla somma originaria, sulla base questo nuovo risultato verrà poi calcolato il successivo interesse. Il calcolo degli interessi sugli interessi già maturati su una somma è detto **anatocismo**.
 
-Per tutte le operazioni bancarie le nuove regole vietano qualsiasi forma di capitalizzazione degli interessi dovuti dal cliente alla banca. Restano escluso invece il pagamento degli interessi in mora, ovvero la produzione di interessi sulla mora che il cliente deve alla banca nel caso in cui non dovesse ottemperare in tempo al pagamento della rata del prestito.
+Per tutte le operazioni bancarie le nuove regole vietano qualsiasi forma di capitalizzazione degli interessi passivi. Restano escluso invece il pagamento degli interessi attivi e degli interessi in mora, ovvero la produzione di interessi sulla mora che il cliente deve alla banca nel caso in cui non dovesse ottemperare in tempo al pagamento della rata del prestito.
 
-Gli interessi interessi, passivi e attivi, devono essere calcolati tutti con la stessa periodicità. Il periodo di conteggio degli interessi attivi possono prevedere un periodo di conteggio inferiore all'anno, a vantaggio del cliente. In quelli passivi passivi il periodo non può essere inferiore ad un anno e il termine per il calcolo è fissato al 31 dicembre di ciascun anno, questo vale anche in caso di contratti stipulati in corso d'anno e al termine del rapporto. Inoltre gli interessi calcolati al 31 dicembre, non sono dovuti in questa data ma il 1° marzo dell'anno successivo.
+Gli interessi, passivi e attivi, devono essere calcolati tutti con la stessa periodicità. Il periodo di conteggio degli interessi attivi può prevedere un periodo di conteggio inferiore all'anno, a vantaggio del cliente. In quelli passivi passivi il periodo non può essere inferiore ad un anno e il termine per il calcolo è fissato al 31 dicembre di ciascun anno, questo vale anche in caso di contratti stipulati in corso d'anno e al termine del rapporto. Inoltre gli interessi calcolati al 31 dicembre, non sono dovuti in questa data ma il 1° marzo dell'anno successivo.
 
 ### Tasso di interesse nominale e effettivo
 
-- Il **tasso d'interesse effettivo** è il tasso a cui il denaro è concretamente prestato ed è definito per periodo di interesse. Considera il frazionamento dei periodi e comprende anche le spese di istruttoria ed erogazione del prestito
+- Il **tasso d'interesse effettivo** è il tasso a cui il denaro è concretamente prestato ed è definito per periodo di interesse. Considera il frazionamento dei periodi e comprende anche le spese di istruttoria ed erogazione del prestito.
 
 - Il **tasso d'interesse nominale** non coincide con il tasso effettivo ed è definito su base annua. È pari al tasso effettivo moltiplicato per il numero di periodi di interesse contenuti in un anno. È ingannevole perché più basso di quello reale.
 
