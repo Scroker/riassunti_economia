@@ -49,6 +49,7 @@ Se il progetto ha una durata pluriennale, per entrambi bisogna considerare i val
 ### Tempo di recupero
 Il **tempo di recupero**, anche detto *pay-back period* o *PBP*, è un metodo che basa la valutazione di un progetto sul numero di anni necessari affinché il flusso di cassa cumulativo previsto eguagli l'esborso iniziale.
 Secondo la regola del tempo di recupero è opportuno effettuare solo operazioni che "recuperano" nell'arco di tempo desiderato. Il tempo di recupero del capitale, pur non fornendo indicazioni nell'intero ciclo di vita dell'investimento, fornisce un metodo rapido per conoscere dopo quanto tempo possiamo rientrare in possesso del capitale investito. Dal punto di vista operativo, si deve individuare il numero di anni $t=n_{payback}$ in cui per la prima volta le entrate eguagliano le uscite.
+
 $$\sum_{t=0}^{n_{payback}} F_t = 0$$ 
 
 #### Punti di debolezza
@@ -66,12 +67,14 @@ $$\sum_{t=0}^{n_{payback}} F_t = 0$$
 - È idoneo per un investimento "tradizionale" caratterizzato da un investimento iniziale elevato e nessun reinvestimento successivo.
 
 ### Tempo di recupero attualizzato
-Il **tempo di recupero attualizzato** è un metodo che basa la valutazione di un progetto sul numero di anni necessari affinché il flusso di cassa cumulativo **attualizzato** previsto equivalga all'esborso iniziale. Rispetto al tempo di recupero classico, considera il valore temporale del denaro:$$\sum_{t=0}^{n_{payback}} F_t(1+i)^{-t}-F_0 = 0$$ 
+Il **tempo di recupero attualizzato** è un metodo che basa la valutazione di un progetto sul numero di anni necessari affinché il flusso di cassa cumulativo **attualizzato** previsto equivalga all'esborso iniziale. Rispetto al tempo di recupero classico, considera il valore temporale del denaro:
+
+$$\sum_{t=0}^{n_{payback}} F_t(1+i)^{-t}-F_0 = 0$$ 
 
 ### Il valore attuale netto
-Il **valore attuale netto** rappresenta il contributo netto al valore economico dell'azienda ed esprime la differenza fra il valore attuale dei flussi monetari annui ed il valore dell'investimento. Riconosce il valore temporale del denaro e dipende unicamente dai flussi di cassa previsti dal progetto e dal costo opportunità del capitale.
+Il **valore attuale netto** rappresenta il contributo netto al valore economico dell'azienda ed esprime la differenza fra il valore attuale dei flussi monetari annui ed il valore dell'investimento. Il principale vantaggio del VAN è che riconosce il valore temporale del denaro e dipende unicamente dai flussi di cassa previsti dal progetto e dal costo opportunità del capitale.
 
-$$VAN = \sum_{t=0}^n\frac{F_t}{(1+i)^n}$$
+$$VAN = \sum_{t=0}^n\frac{F_t}{(1+i)^t}$$
 
 Dove:
 
@@ -80,7 +83,7 @@ Dove:
 - $i$ costo opportunità del capitale
 
 #### Il costo opportunità del capitale
-Il **costo opportunità del capitale** rappresenta il premio che gli investitori richiedono per accettare la posticipazione del ricavo , ovvero la remunerazione a cui si rinuncia investendo nel progetto piuttosto che nel mercato azionario
+Il **costo opportunità del capitale** rappresenta il premio che gli investitori richiedono per accettare la posticipazione del ricavo, ovvero la remunerazione a cui si rinuncia investendo nel progetto piuttosto che nel mercato azionario.
 
 #### Il periodo di vita utile
 Il **periodo di vita utile** rappresenta l'orizzonte temporale del progetto che coincide generalmente con la vita economica utile del progetto.
@@ -93,13 +96,15 @@ Se il VAN < 0 allora ci troviamo in una situazione di **distruzione del valore**
 ### Equivalente annuo
 L'**equivalente annuo**, in inglese *Annual Equivalent (AE)*, attraverso il segno ed il valore assunto, consente di stabilire quanto si potrà guadagnare annualmente dal progetto, su quale rendimento annuo fare affidamento. Fornisce le **stesse indicazioni del VAN** da cui deriva direttamente (è dato dal prodotto tra VAN e il fattore di recupero del capitale):
 
-$$AE= VAN\frac{i(1+i)^t}{(1+i)^t-1}$$
+$$AE = VAN\frac{i(1+i)^t}{(1+i)^t-1}$$
 
-Se l'$AE$ è $=0$ non si guadagna ne si perde, se è $>0$ si guadagna e l'investimento è pertanto accettabile, se è $<0$ si perde e l'investimento è pertanto inaccettabile. É utile se gli investimenti che si stanno confrontando hanno vita utile diversa, altrimenti è equivalente al VAN.
+Se l'$AE$ è $=0$ non si guadagna ne si perde, se è $>0$ si guadagna e l'investimento è pertanto accettabile, se è $<0$ si perde e l'investimento è pertanto inaccettabile. É utile se si stanno confrontando investimenti che hanno vita utile diversa, altrimenti è equivalente al confronto dei VAN dei rispettivi progetti.
 
 ### Tasso interno di rendimento
-Il **tasso interno di rendimento (TIR)**, in inglese *Internal Rate of Return (IRR)*, è definito come quel tasso di interesse che rende identici i valori dei flussi positivi e negativi di un progetto. Il TIR esprime il rendimento effettivo di un progetto o anche il costo massimo della raccolta, oltre il quale l'iniziativa non sarebbe economica. Teoricamente è quel tasso di interesse che rende pari a zero il VAN:
+Il **tasso interno di rendimento (TIR)**, in inglese *Internal Rate of Return (IRR)*, è definito come quel tasso di interesse che rende identici i valori dei flussi positivi e negativi di un progetto. Il TIR esprime il rendimento effettivo di un progetto oltre il quale l'iniziativa non sarebbe economica, anche detto costo massimo della raccolta. Teoricamente è quel tasso di interesse che rende pari a zero il VAN:
+
 $$\sum_{t=0}^n\frac{F_t}{(1+TIR)^n} = 0$$
+
 Una volta calcolato il TIR lo si confronta con il costo opportunità del capitale e se è maggiore di quest'ultimo si accetta il progetto. Nel caso di più progetti mutualmente esclusivi, tutti a TIR maggiore del costo opportunità del capitale, si sceglie quello con il TIR più alto.
 
 #### 1° Trappola del TIR - Prestare o prendere a prestito?

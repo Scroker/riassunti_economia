@@ -38,7 +38,7 @@ Questo tipo di società viene spesso utilizzata per l'esercizio in comune delle 
 #### 2.1.2 - La società in nome collettivo
 Questo tipo di società è la più diffusa per l'esercizio di attività commerciali e industriali di piccole dimensioni. Le società in nome collettivo hanno le seguenti caratteristiche:
 
-- Tutti i soci hanno **responsabilità illimitata e solidale**, di tutte le obbligazioni sociali della società, salvo patto contrario. 
+- Tutti i soci hanno **responsabilità illimitata e solidale**, di tutte le obbligazioni sociali, salvo patto contrario. 
 - Titti i soci hanno **responsabilità sussidiaria** ovvero i creditori della società devono preventivamente escutere il patrimonio sociale e, solo in caso di insufficienza, possono agire sul patrimonio personale dei soci.
 - Tra i soci vige il **patto di non concorrenza** per cui non possono esercitare come imprenditori individuali o soci limitatamente responsabili in un'altra società che opera come concorrente a quella società.
 - Deve essere **costituita in forma scritta** e quindi è necessario sia un atto scritto che l'iscrizione al registro delle imprese. In caso di inosservanza, tale società verrebbe configurata come S.N.C. irregolare e regolata con le norme relative alle società semplici.
@@ -49,30 +49,30 @@ Questo tipo di società è la più diffusa per l'esercizio di attività commerci
 - **Soci accomandatari** che rispondono illimitatamente e solidamente, sia pure in via sussidiaria, di tutte le obbligazioni sociali.
 - **Soci accomandanti** che rispondono limitatamente alla sola quota conferita.
 
-In linea di principio si applica la disciplina delle S.N.C. regolai con alcune deviazione rese necessarie dai soci a responsabilità limitata che elencheremo qui di seguito:
+In linea di principio si applica la disciplina delle S.N.C. regolari con alcune deviazione rese necessarie dai soci a responsabilità limitata che elencheremo qui di seguito:
 
 - L'amministrazione della società può essere conferita solo ai soci accomandatari
 - I soci accomandanti non possono compiere atti di amministrazione, salvo il conferimento di una procura speciale per singoli affari.
 - Un socio accomandatario non può cedere la sua quota sociale senza il consenso unanime dei soci, mentre la quota di un accomandante può essere trasferita con il consenso dei soci che rappresentano la maggioranza del capitale.
 
 ### 2.2 - Società di capitali
-Si definiscono società di persone tutte quelle forme di impresa che **hanno personalità giuridica**, pertanto la titolarità di doveri assunti dalla società fa capo alla società stessa e non ai soci. Con l'eccezione della società in accomandita per azioni, le società di capitali danno ai soci il beneficio della **responsabilità limitata**, ovvero i soci rischiano nell'impresa solo il denaro o i beni che hanno conferito in società, soltanto il patrimonio sociale risponde delle obbligazioni sociali.
+Si definiscono società di capitali tutte quelle forme di impresa che **hanno personalità giuridica**, pertanto la titolarità di doveri assunti dalla società fa capo alla società stessa e non ai soci. Con l'eccezione della società in accomandita per azioni, le società di capitali danno ai soci il beneficio della **responsabilità limitata**, ovvero i soci rischiano nell'impresa solo il denaro o i beni che hanno conferito alla società, soltanto il patrimonio sociale risponde delle obbligazioni sociali.
 Si dice in questi casi che la società gode di **autonomia patrimoniale perfetta** poiché i creditori dei singoli soci non possono aggredire il patrimonio sociale e i creditori della società non si possono rivalere sul patrimonio personale dei soci.
 Inoltre il **potere di amministrazione è dissociato dalla qualità di socio**, ovvero la quota di partecipazione del singolo socio, e **la qualità di socio è liberamente trasferibile**. Le società di capitali possono essere a loro volta divise in:
 
+- **Società per azioni (S.P.A)**
 - **Società a responsabilità limitata (S.R.L.)**
 - **Società in accomandita per azioni (S.A.P.A.)**
-- **Società per azioni (S.P.A)**
 
 #### 2.2.1 - Società per azioni (S.P.A.)
-In questo tipo di società soltanto il patrimonio sociale risponde dei debiti sociali e le quote di partecipazione dei soci rappresentate da azioni. È necessario che il capitale sottoscritto sia almeno pari a 50.000€ di cui almeno il 25% del capitale sottoscritto deve essere versato presso un istituto di credito al momento della costituzione della società. Il contratto sociale deve essere redatto per atto pubblico e deve essere sottoposto al giudizio di omologazione del tribunale, consistente nel verificare l'adempimento delle condizioni stabilite dalla legge per la costituzione delle S.P.A. Le quote di partecipazione alla società sono rappresentate da azioni, che costituiscono frazioni di uguale ammontare, del capitale sociale. I principali tipi di azioni sono:
+In questo tipo di società soltanto il patrimonio sociale risponde dei debiti sociali. Le quote di partecipazione dei soci sono rappresentate da azioni. È necessario che il capitale sottoscritto sia almeno pari a 50.000€ di cui almeno il 25% del capitale sottoscritto deve essere versato presso un istituto di credito al momento della costituzione della società. Il contratto sociale deve essere redatto per atto pubblico e deve essere sottoposto al giudizio di omologazione del tribunale, che ne verifica l'adempimento delle condizioni stabilite dalla legge per la costituzione delle S.P.A. Le quote di partecipazione alla società sono rappresentate da azioni, che costituiscono frazioni di uguale ammontare, del capitale sociale. I principali tipi di azioni sono:
 
 - **Azioni ordinarie**
 - **Azioni privilegiate**
 - **Azioni di risparmio**
 
 ###### Azioni ordinarie
-Le *azioni ordinarie* sono **nominative**; attribuiscono **diritto di voto** nelle assemblee ordinarie e straordinarie; conferiscono il **diritto al dividendo**, la cui assegnazione è deliberata dall'assemblea dei soci in seguito all'approvazione del bilancio; conferiscono **diritoo alla quota di liquidazione** in proporzione al patrimonio netto residuo della società, dopo l'estinzione di tutti i debiti, tenendo conto dei diritti di priorità delle azioni privilegiate e di risparmio; conferiscono il **diritto di opzione**, ovvero la facoltà attributiva in via prioritaria ai soci di sottoscrivere, nel caso di aumento di capitale, le azioni di nuova emissione in proporzione alla quota di capitale posseduta; conferiscono il **diritto di impugnativa** delle delibere assembleari non conformi alla legge o all'atto costituivo; conferiscono il **diritto di consultare** il progetto di bilancio, il libro dei soci e il libro dei verbali; conferiscono il **diritto di recesso**, ovvero la facoltà di porre fine alla partecipazione sociale, ottenendo il rimborso del valore delle azioni.
+Le *azioni ordinarie* sono **nominative**; attribuiscono **diritto di voto** nelle assemblee ordinarie e straordinarie; conferiscono il **diritto al dividendo**, la cui assegnazione è deliberata dall'assemblea dei soci in seguito all'approvazione del bilancio; conferiscono **diritto alla quota di liquidazione** in proporzione al patrimonio netto residuo della società, dopo l'estinzione di tutti i debiti, tenendo conto dei diritti di priorità delle azioni privilegiate e di risparmio; conferiscono il **diritto di opzione**, ovvero la facoltà attributiva, in via prioritaria ai soci, di sottoscrivere, nel caso di aumento di capitale, le azioni di nuova emissione in proporzione alla quota di capitale posseduta; conferiscono il **diritto di impugnativa** delle delibere assembleari non conformi alla legge o all'atto costituivo; conferiscono il **diritto di consultare** il progetto di bilancio, il libro dei soci e il libro dei verbali; conferiscono il **diritto di recesso**, ovvero la facoltà di porre fine alla partecipazione sociale, ottenendo il rimborso del valore delle azioni.
 
 ###### Azioni privilegiate
 Le *azioni privilegiate* sono nominative; attribuiscono un **diritto di priorità** nella distribuzione degli utili e/o nel rimborso del capitale al momento dello scioglimento della società; normalmente, attribuiscono diritto di voto **limitatamente** alle assemblee straordinarie.
@@ -91,23 +91,23 @@ I *patti parasociali* sono accordi tra tutti o alcuni dei soci che hanno lo scop
 ###### Assemblea dei soci
 È l'organo sovrano della società; il diritto di voto spetta ad ogni socio per azione posseduta, le competenze dell'assemblea dei soci variano in funzione del modello di *corporate governance* scelto dalla stessa società. La riforma del diritto societario ha ridimensionato le competenze che precedentemente erano attribuite all'assemblea dei soci. I compiti principali sono:
 
-- l'approvazione del bilancio
-- la nomina e la revoca degli amministratori e dei membri del collegio sindacale
-- la deliberazione sulla responsabilità di amministratori e sindaci
+- L'approvazione del bilancio.
+- La nomina e la revoca degli amministratori e dei membri del collegio sindacale
+- La deliberazione sulla responsabilità di amministratori e sindaci
 
 ###### Amministratori
 È l'organo esecutivo della società, può essere costituito da un **amministratore unico** oppure da più amministratori che costituiscono il **consiglio di amministrazione**. Il consiglio può delegare le proprie attribuzioni a un **comitato esecutivo** oppure a uno o più **amministratori delegati**.
 Nella prassi delle grandi società per azioni il comitato esecutivo, oppure uno o più amministratori delegati, costituiscono l'organo in cui si incentra il potere di gestione, mentre il consiglio di amministrazione assume il ruolo di organo di ratifica e di controllo dell'operato dei primi. La funzione degli amministratori è assimilabile alla "funzione imprenditoriale", gli amministratori sono dotati di autonomi poteri decisionali e di iniziativa, oltre che di poteri esecutivi veri e propri. Agli amministratori compete tra l'altro l'esecuzione delle delibere assembleari e la rappresentanza della società nei confronti di terzi.
 
 ###### Collegio sindacale
-È l'organo di controllo interno della società, composto da 3 o 5 membri effettivi, soci o non soci, oltre a 3 sindaci supplenti. Almeno un menmbro effettivo ed uno supplementare devono essere tra gli iscritti nel registro dei revisori contabili, i restanti membri, se non iscritti a tale registro, devono essere scelti fra gli iscritti in determinati albi professionali o fra i professori universitari di ruolo in materie economiche o giuridiche. I sindaci vigilano sull'osservanza della legge e dell'atto costitutivo; controllano l'attività degli amministratori e dell'assemblea; accertano la regolare tenuta delle scritture contabili e la corrispondenza tra queste e il bilancio, accertano almeno ogni trimestre la consistenza di cassa.
+È l'organo di controllo interno della società, composto da 3 o 5 membri effettivi, soci o non soci, oltre a 3 sindaci supplenti. Almeno un membro effettivo ed uno supplementare devono essere tra gli iscritti nel registro dei revisori contabili, i restanti membri, se non iscritti a tale registro, devono essere scelti fra gli iscritti in determinati albi professionali o fra i professori universitari di ruolo in materie economiche o giuridiche. I sindaci vigilano sull'osservanza della legge e dell'atto costitutivo; controllano l'attività degli amministratori e dell'assemblea; accertano la regolare tenuta delle scritture contabili, ne verificano la corrispondenza con il bilancio e accertano la consistenza di cassa almeno ogni trimestre.
 
 ###### Modelli di governance
 La riforma del diritto societario ha introdotto la possibilità di adottare strutture di *governance* alternative al modello di amministrazione "ordinario", che è un modello tipicamente italiano applicato in assenza di diversa scelta statutaria. Pertanto le alternative tra cui scegliere diventano:
 
 - Il **sistema "ordinario"** che comporta la presenza di un Organo di Amministrazione e di un Organo di Controllo chiamato Collegio Sindacale.
 - Il **sistema "dualistico"** che comporta la presenza di un Consiglio di Sorveglianza e un Consiglio di Gestione.
-- Il **sistema "monistico"** che comporta la presenza di un Consiglio di Amministrazione e di un Comitato Interno per il Controllo sulla Gestione.
+- Il **sistema "monistico"** che comporta la presenza di un *Consiglio di amministrazione* e di un *Comitato interno per il controllo sulla gestione*.
 
 ###### Consiglio di gestione
 Svolge le funzioni di gestione ed è costituito da almeno due membri, anche non soci, nominati dal consiglio di sorveglianza.
@@ -119,7 +119,7 @@ Oltre a nominare i membri del consiglio di gestione, svolge funzioni di controll
 Svolge le funzioni di gestione ed i suoi membri sono nominati dall'assemblea
 
 ###### Comitato per il controllo sulla gestione
-È costituito all'interno del consiglio di amministrazione; è composto da amministratori in possesso dei requisiti che l legge prescrive per il collegio sindacale e che non siano membri del comitato esecutivo ai quali non siano attribuite deleghe o particolari cariche
+È costituito all'interno del consiglio di amministrazione; è composto da amministratori in possesso dei requisiti che la legge prescrive per il collegio sindacale. Tali amministratori non possono essere membri del comitato esecutivo e non devono avere attribuite deleghe o particolari cariche.
 
 ##### Società controllate e società collegate
 Si considerano società controllate le società che si configurano in una delle seguenti situazioni:
@@ -133,10 +133,10 @@ Per l'analisi di questa situazione non devono trascurarsi le conseguenze conness
 Invece si considerano **società collegate** le società quali un'altra società esercita un'influenza notevole, ovvero quando nell'assemblea ordinaria può essere esercitato almeno un quinto dei voti, un decimo se la società ha azioni quotate in borsa.
 
 ###### Società controllate
-La società controllata non può sottoscrivere azioni o quote della società controllante, inoltre una società controllata non può acquista re azioni o quote della società controllante se non nei limiti degli utili distribuibili e delle riserve disponibili risultanti dall'ultimo bilancio regolarmente approvato. L'acquisto deve essere preventivamente autorizzato dall'assemblea e la società controllata non può esercitare il diritto di voto nelle assemblee della controllante.
+La società controllata non può sottoscrivere azioni o quote della società controllante, inoltre una società controllata non può acquistare azioni o quote della società controllante se non nei limiti degli utili distribuibili e delle riserve disponibili risultanti dall'ultimo bilancio regolarmente approvato. L'acquisto deve essere preventivamente autorizzato dall'assemblea e la società controllata non può esercitare il diritto di voto nelle assemblee della controllante.
 
 ###### Holding
-È una società capogruppo che controlla altre società mediante il possesso di partecipazioni azionarie. La società capogruppo che si limita ad esercitare l'attività di direzione e controllo del gruppo senza svolgere nessuna attività di produzione o scambio è definita **holding pura** e le società controllate definiscono società operanti. Al contrario se la società capogruppo svolge anche attività di produzione e scambio si definisce **holding mista**.\
+È una società capogruppo che controlla altre società mediante il possesso di partecipazioni azionarie. La società capogruppo, che si limita ad esercitare l'attività di direzione e controllo del gruppo senza svolgere nessuna attività di produzione o scambio, è definita **holding pura** e le società controllate definiscono **società operanti**. Al contrario se la società capogruppo svolge anche attività di produzione e scambio si definisce **holding mista**.\
 Le holding hanno la possibilità di esercitare un controllo indiretto sulle società di capitali e sulla dispersione delle azioni delle società nel pubblico dei risparmiatori, consentendo alla società capogruppo di moltiplicare progressivamente il capitale controllato.\
 Il controllo si manifesta attraverso un sistema "a cascata" in cui il soggetto al vertice può controllare direttamente o indirettamente molte imprese, giuridicamente autonome, che operano in diversi settori e/o in diversi mercati nazionali, oppure svolgono distinte fasi dello stesso processo produttivo. Le *holding* costituiscono uno strumento efficace per il controllo oligarchico dell'attività economica.
 
@@ -149,7 +149,7 @@ Sono società di capitali caratterizzate dalla coesistenza di due diverse catego
 - **soci accomandatari** che rispondono illimitatamente e solidamente, sia pure in via sussidiaria, di tutte le obbligazioni sociali
 - **soci accomandanti** che rispondono limitatamente alla sola quota conferita
 
-Le quote di partecipazione dei soci sono costituite da azioni, le azioni degli accomandanti e quelle degli accomandatari non costituiscono categorie distinte di azioni. Di fatto è una S.P.A. modificata, nella quale il potere di gestione spetta di diritto ai soci accomandatari. È un modello societario poco diffuso, viene usato per lo pi come holding da parte di grandi famiglie dell'imprenditoria italiana allo scopo di salvaguardare l'unità di gestione e controllo.
+Le quote di partecipazione dei soci sono costituite da azioni, le azioni degli accomandanti e quelle degli accomandatari non costituiscono categorie distinte di azioni. Di fatto è una S.P.A. modificata, nella quale il potere di gestione spetta di diritto ai soci accomandatari. È un modello societario poco diffuso, viene usato per lo più come holding da parte di grandi famiglie dell'imprenditoria italiana allo scopo di salvaguardare l'unità di gestione e controllo.
 
 #### Società cooperativa
 È un modello societario a con **scopo mutualistico**, ovvero ha come intento il fornire beni, servizi o occasioni di lavoro a condizioni più vantaggiose di quelle che otterrebbero dal mercato. È a **capitale variabile**, ovvero il capitale sociale non è mai determinato in un ammontare minimo prestabilito, poiché può continuamente variare, senza nessuna necessità di modificare l'atto costitutivo, a seguito della variazione dei soci. **Deve costituirsi con atto pubblico, ha personalità giuridica ed è caratterizzato da responsabilità limitata**.\
