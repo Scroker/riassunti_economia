@@ -31,7 +31,7 @@ I ratei, attivi e passivi, rappresentano rispettivamente le quote di costi e ric
 - **Passivi** se sono relativi ad uscite future relative a costi già maturati, ma non ancora liquidati.
 
 ## Ammortamenti
-I conti accesi alle immobilizzazioni immateriali e materiali accolgono costi pluriennali espressivi di condizioni produttive utilizzabili per più anno consecutivi.
+Rappresentano i conti accesi all'acquisto di immobilizzazioni, materiali e immateriali, che accolgono costi pluriennali, espressivi di condizioni produttive, utilizzabili per più anni consecutivi. Esistono due metodi di rappresentazione dell'ammortamento:
 
 - **Ammortamento indiretto (o fuori conto)**: L'azienda rileva il costo dell'esercizio in contropartita accende il **fondo di ammortamento** che costituisce una posta rettificativa del valore dell'attivo patrimoniale.
-- **Ammortamento diretto (o in conto)**: questo procedimento, utilizzato per le immobilizzazioni immateriali, prevede che la quota di ammortamento venga portata in diretta diminuzione del cost da ammortizzare.
+- **Ammortamento diretto (o in conto)**: questo procedimento, utilizzato per le immobilizzazioni immateriali, prevede che la quota di ammortamento venga portata in diretta diminuzione del costo da ammortizzare.

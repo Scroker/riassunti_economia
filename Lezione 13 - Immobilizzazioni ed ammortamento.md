@@ -1,5 +1,5 @@
 # Le immobilizzazioni e l'ammortamento
-I benefici di avere sostenuto una spesa possono manifestarsi per intero nel periodo corrente o in periodi futuri. Nel primo caso le spese sostenute vengono dette **costi di competenza**, nel secondo invece i costi d'acquisto sono un'attività alla fine del periodo, pertanto vengono indicati come **capitalizzati** e l'attività è **immobilizzata**.\
+I benefici di avere sostenuto una spesa possono manifestarsi per intero nel periodo corrente o in periodi futuri. Nel primo caso le spese sostenute vengono dette **costi di competenza**, nel secondo invece i costi d'acquisto diventano un'attività alla fine del periodo, pertanto vengono indicati come **capitalizzati** e l'attività è **immobilizzata**.\
 Le immobilizzazioni sono beni a fecondità ripetuta poiché hanno una durata pluriennale e la loro utilità è suddivisa in più esercizi. Di conseguenza il costo sostenuto per l'immobilizzazione non può concorrere alla formazione del reddito del solo periodo in cui si è avuta la manifestazione finanziaria. Tale costo deve essere invece essere ripartito in più esercizi: in tutti quelli nei quali esso darà la propria utilità all'impresa.\
 Attraverso l'**ammortamento** il costo di tali beni viene diviso in più anni. La divisione in più anni può essere fatta in tre differenti modi:
 

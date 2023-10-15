@@ -1,5 +1,5 @@
 # L'analisi del bilancio
-L'analisi di bilancio è una tecnica di confronto di dati normalmente trattati da più bilanci d'esercizio comparati nel tempo, con riferimento sempre alla stessa impresa, e/o nello spazio, con riferimento ad imprese diverse, al fine di potere entro certi limiti, studiare aspetti della gestione aziendale complementari a quelli espressi dalla misura del reddito di esercizio. Un'analisi di bilancio richiede per tanto un confronto per decidere quale comparazione impiegare e quali sono gli obiettivi di un'impresa. Esistono tre tipi di analisi del bilancio:
+L'analisi di bilancio è una tecnica di confronto di dati normalmente trattati da più bilanci d'esercizio comparati nel tempo, con riferimento sempre alla stessa impresa, e/o nello spazio, con riferimento ad imprese diverse. Il fine di tale tecnica è di potere, entro certi limiti, studiare aspetti della gestione aziendale complementari a quelli espressi dalla misura del reddito di esercizio. Un'analisi di bilancio richiede per tanto un confronto per decidere quale comparazione impiegare e quali sono gli obiettivi di un'impresa. Esistono tre tipi di analisi del bilancio:
 
 - **Analisi reddituale**: è volta ad accertare l'equilibrio economico, ovvero la capacità dell'impresa di remunerare tutti i fattori produttivi, compreso il capitale di rischio.
 - **Analisi di liquidità**: è volta ad accettare l'equilibrio finanziario, ovvero la capacità dell'impresa di far fronte ai propri impegni attraverso le risorse a sua disposizione.
@@ -13,6 +13,8 @@ L'analisi del bilancio deve seguire una certa procedura composta dalle seguenti 
 4) Espressione di un giudizio sui risultati raggiunti
 
 ## Riclassificazione stato patrimoniale
+La riclassificazione dello stato patrimoniale consiste nell'organizzare e rielaborare i dati relativi alle attività e passività di un'impresa. L'obiettivo è fornire una fotografia più chiara della consistenza del patrimonio aziendale, mettendone in luce il valore degli impieghi e le fonti di capitale.
+
 ## Riclassificazione del conto economico
 Gli schemi di riclassificazione del conto economico cono tre:
 
@@ -28,7 +30,7 @@ L'analisi patrimoniale è finalizzata ad analizzare la struttura del patrimonio 
 ### La leva finanziaria
 La *leva finanziaria* (Debt/Equity) è un indicatore che rappresenta l'indebitamento di un'impresa.
 $$Indice\ leva\ finanziaria = \frac{capitale\ di\ terzi}{capitale\ proprio}$$
-Indica l'autonomia o la dipendenza finanziaria dell'impresa, ha un **valore pari a 1 se l'impresa impiega 50% di capitale proprio e 50% di capitale di debito**, ha un **valore maggiore di 1 se l'impresa utilizza più capitale di debito che proprio** e quindi è sottocapitalizzata, ha un **valore minore di 1 se l'impresa utilizza più capitale proprio che di debito** e quindi ha un buon grado di autonomia finanziaria.
+Indica l'autonomia o la dipendenza finanziaria dell'impresa, ha un **valore pari a 1 se l'impresa impiega 50% di capitale proprio e 50% di capitale di debito**, ha un **valore maggiore di 1 se l'impresa utilizza più capitale di debito che proprio** e quindi è sotto-capitalizzata, ha un **valore minore di 1 se l'impresa utilizza più capitale proprio che di debito** e quindi ha un buon grado di autonomia finanziaria.
 Se il valore inoltre è maggiore di 2 significa che l'azienda sta ricorrendo prevalentemente al capitale di terzi che molto probabilmente sta ad indicare una situazione patologica dell'impresa.
 
 ## Analisi Liquidità
@@ -47,19 +49,22 @@ Rispetto all'indice di liquidità al numeratore presenta solo le attività corre
 $$Test\ acido=\frac{Liquidità\ immediate}{Passività\ correnti}$$
 
 ### Capitale circolante netto
-Il CCN esprime la minsura in cui l'impresa è in grado di far fronte agli impegni assunti nel breve periofo con il realizzo delle attività a breve. Tramite il controllo di questo indicatore è possibile evitare crisi di liquidità e compromette l'equilibrio finanziario. Alcuni autori considerano come CCN la differenza tra le sole attività e passività operative. Il CCN è dato:
-$$CCN=Attività\ correnti - Passività\ correnti$$
+Il C.C.N. esprime la misura in cui l'impresa è in grado di far fronte agli impegni assunti nel breve periodo con il realizzo delle attività a breve. Tramite il controllo di questo indicatore è possibile evitare situazioni di crisi di liquidità e di compromette l'equilibrio finanziario. È dato dalla differenza tra attività e passività correnti, in formule:
+
+$$C.C.N. = Attività\ correnti - Passività\ correnti$$
+
+Tuttavia, alcuni autori considerano il C.C.N. come la differenza tra le sole attività e passività operative.
 
 ## Analisi reddituale
-L'analisi reddituale o economica tende ad accettare l'equilibrio economico che fa riferimento ai costi, ai ricavi ed al reddito, e che consiste nella capacità dell'azienda di remunerare tutti i fattori produttivi, compreso il capitale apportato dal  titolare o dai soci, sena alterare l'equilibrio finanziario. I principali indicatori di redditività sono:
+L'analisi reddituale o economica tende ad accertare l'equilibrio economico che fa riferimento ai costi, ai ricavi ed al reddito, e che consiste nella capacità dell'azienda di remunerare tutti i fattori produttivi, compreso il capitale apportato dal titolare o dai soci, senza alterare l'equilibrio finanziario. I principali indicatori di redditività sono:
 
-- Return on investment (R.O.I.)
-- Returno on sale (R.O.S.)
+- Return on Investment (R.O.I.)
+- Returno on Sale (R.O.S.)
 - Return on Equity (R.O.E.)
 - Returno on Debts (R.O.D.)
 
 ### Return on investment (R.O.I.)
-Il R.O.I è un indice economico che misura la redditività del capitale investito e quindi la capacità di ottenere ritorni sugli investimenti.
+Il R.O.I. è un indice economico che misura la redditività del capitale investito e quindi la capacità di ottenere ritorni sugli investimenti.
 $$Redditività\ del\ capitale\ investito=\frac{Reddito\ operativo}{Capitale\ investito\ netto\ operativo}$$
 Una possibile variante del R.O.I. è la seguente
 $$Redditività\ del\ capitale\ investito=\frac{Reddito\ operativo}{Totale\ attivo}$$
