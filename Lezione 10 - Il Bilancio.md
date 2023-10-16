@@ -53,7 +53,7 @@ Gli elementi principali che costituiscono il patrimonio netto sono:
 1) Il **capitale versato**, che è l'ammontare di denaro apportato direttamente dalla proprietà, come ad esempio, nel caso di una S.P.A., dagli azionisti. Il capitale versato si compone a sua volta di:
 	- **Capitale sociale** 
 	- **Riserva da sovrapprezzo azionario**
-2) Le **riserve di utili**, anche dette *retained earnings*, e che corrispondono ad una ricchezza generata attraverso la gestione e non distribuita sotto forma di dividendi. Gli utili di un'azienda possono essere messi da parte per diverse motivazioni, pertanto si tende in genere a creare diverse riserve per i casi specifici, ecco perché in questa sezione potremmo trovare ad esempio, oltre all'utile dell'esercizio, degli utili destinati a riserve legali, statuatarie, ecc..
+2) Le **riserve di utili**, anche dette *retained earnings*, che corrispondono ad una ricchezza generata attraverso la gestione e non distribuita sotto forma di dividendi. Gli utili di un'azienda possono essere messi da parte per diverse motivazioni, pertanto si tende in genere a creare diverse riserve per i casi specifici, ecco perché in questa sezione potremmo trovare ad esempio, oltre all'utile dell'esercizio, degli utili destinati a riserve legali, statuatarie, ecc..
 
 #### Il principio del duplice aspetto
 Il principio del duplice aspetto stabilisce che le attività totali di una azienda saranno sempre uguali alle passività più il capitale netto. In formula:
