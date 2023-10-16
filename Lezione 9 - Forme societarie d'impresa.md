@@ -72,13 +72,15 @@ In questo tipo di società soltanto il patrimonio sociale risponde dei debiti so
 - **Azioni di risparmio**
 
 ###### Azioni ordinarie
-Le *azioni ordinarie* sono **nominative**; attribuiscono **diritto di voto** nelle assemblee ordinarie e straordinarie; conferiscono il **diritto al dividendo**, la cui assegnazione è deliberata dall'assemblea dei soci in seguito all'approvazione del bilancio; conferiscono **diritto alla quota di liquidazione** in proporzione al patrimonio netto residuo della società, dopo l'estinzione di tutti i debiti, tenendo conto dei diritti di priorità delle azioni privilegiate e di risparmio; conferiscono il **diritto di opzione**, ovvero la facoltà attributiva, in via prioritaria ai soci, di sottoscrivere, nel caso di aumento di capitale, le azioni di nuova emissione in proporzione alla quota di capitale posseduta; conferiscono il **diritto di impugnativa** delle delibere assembleari non conformi alla legge o all'atto costituivo; conferiscono il **diritto di consultare** il progetto di bilancio, il libro dei soci e il libro dei verbali; conferiscono il **diritto di recesso**, ovvero la facoltà di porre fine alla partecipazione sociale, ottenendo il rimborso del valore delle azioni.
+Le *azioni ordinarie* sono **nominative**; attribuiscono **diritto di voto** nelle assemblee ordinarie e straordinarie; conferiscono il **diritto al dividendo**, la cui assegnazione è deliberata dall'assemblea dei soci in seguito all'approvazione del bilancio; conferiscono **diritto alla quota di liquidazione** in proporzione al patrimonio netto residuo della società, dopo l'estinzione di tutti i debiti, tenendo conto dei diritti di priorità delle azioni privilegiate e di risparmio; conferiscono il **diritto di opzione**, ovvero la facoltà attributiva, in via prioritaria ai soci, di sottoscrivere, nel caso di aumento di capitale, le azioni di nuova emissione in proporzione alla quota di capitale giià posseduta; conferiscono il **diritto di impugnativa** delle delibere assembleari non conformi alla legge o all'atto costituivo; conferiscono il **diritto di consultare** il progetto di bilancio, il libro dei soci e il libro dei verbali; conferiscono il **diritto di recesso**, ovvero la facoltà di porre fine alla partecipazione sociale, ottenendo il rimborso del valore delle azioni.
 
 ###### Azioni privilegiate
 Le *azioni privilegiate* sono nominative; attribuiscono un **diritto di priorità** nella distribuzione degli utili e/o nel rimborso del capitale al momento dello scioglimento della società; normalmente, attribuiscono diritto di voto **limitatamente** alle assemblee straordinarie.
 
 ###### Azioni di risparmio
-Le *azioni di risparmio* possono essere **sia nominative sia al poeratore**; vengono **emesse solo da società** le cui azioni ordinarie sono **quotate** in mercati regolamentati; attribuiscono particolari **privilegi di natura patrimoniale**, come ad esempio, nella ripartizione degli utili e nel rimborso del capitale; sono **prive di diritto di voto**; le azioni a voto limitato, con diritto di voto limitato o senza alcun diritto di voto, **non possono superare la metà del capitale sociale**.
+Le *azioni di risparmio* possono essere **sia nominative sia al poeratore**; vengono **emesse solo da società** le cui azioni ordinarie sono **quotate** in mercati regolamentati; attribuiscono particolari **privilegi di natura patrimoniale**, come ad esempio, nella ripartizione degli utili e nel rimborso del capitale; sono **prive di diritto di voto**; 
+
+**Le azioni a voto limitato, con diritto di voto limitato o senza alcun diritto di voto, non possono superare la metà del capitale sociale**.
 
 ###### Patti parasociali
 I *patti parasociali* sono accordi tra tutti o alcuni dei soci che hanno lo scopo di regolare il comportamento dei soci in seno alla società. Hanno efficacia obbligatoria solo fra le parti stipulanti e atti compiuti in violazione di essi non vengono invalidati ma può essere previsto il risarcimento dei danni provocati a gli altri soci. Le tipologie più importanti sono:
@@ -88,6 +90,8 @@ I *patti parasociali* sono accordi tra tutti o alcuni dei soci che hanno lo scop
 - Patti che hanno per oggetto o effetto l'esercizio anche contiguo di un'influenza dominante sulla società.
 
 ##### Organi della società per azioni
+L'organizzazione interna delle società per azioni comprende tradizionalmente i seguenti organi fondamentali:
+
 ###### Assemblea dei soci
 È l'organo sovrano della società; il diritto di voto spetta ad ogni socio per azione posseduta, le competenze dell'assemblea dei soci variano in funzione del modello di *corporate governance* scelto dalla stessa società. La riforma del diritto societario ha ridimensionato le competenze che precedentemente erano attribuite all'assemblea dei soci. I compiti principali sono:
 
@@ -105,21 +109,15 @@ Nella prassi delle grandi società per azioni il comitato esecutivo, oppure uno 
 ###### Modelli di governance
 La riforma del diritto societario ha introdotto la possibilità di adottare strutture di *governance* alternative al modello di amministrazione "ordinario", che è un modello tipicamente italiano applicato in assenza di diversa scelta statutaria. Pertanto le alternative tra cui scegliere diventano:
 
-- Il **sistema "ordinario"** che comporta la presenza di un Organo di Amministrazione e di un Organo di Controllo chiamato Collegio Sindacale.
-- Il **sistema "dualistico"** che comporta la presenza di un Consiglio di Sorveglianza e un Consiglio di Gestione.
-- Il **sistema "monistico"** che comporta la presenza di un *Consiglio di amministrazione* e di un *Comitato interno per il controllo sulla gestione*.
-
-###### Consiglio di gestione
-Svolge le funzioni di gestione ed è costituito da almeno due membri, anche non soci, nominati dal consiglio di sorveglianza.
-
-###### Consiglio di sorveglianza
-Oltre a nominare i membri del consiglio di gestione, svolge funzioni di controllo e ha il compito di approvare il bilancio
-
-###### Consiglio di amministrazione
-Svolge le funzioni di gestione ed i suoi membri sono nominati dall'assemblea
-
-###### Comitato per il controllo sulla gestione
-È costituito all'interno del consiglio di amministrazione; è composto da amministratori in possesso dei requisiti che la legge prescrive per il collegio sindacale. Tali amministratori non possono essere membri del comitato esecutivo e non devono avere attribuite deleghe o particolari cariche.
+- Il **sistema "ordinario"** che comporta la presenza di: 
+	- **Organo di amministrazione**
+	- **Collegio sindacale**
+- Il **sistema "dualistico"** che comporta la presenza di:
+	- **Consiglio di Sorveglianza**: nomina i membri del consiglio di gestione, svolge funzioni di controllo e ha il compito di approvare il bilancio
+	- **Consiglio di gestione**: svolge le funzioni di gestione ed è costituito da almeno due membri, anche non soci, nominati dal consiglio di sorveglianza.
+- Il **sistema "monistico"** che comporta la presenza di: 
+	- **Consiglio di amministrazione**
+	- **Comitato interno per il controllo sulla gestione**: è costituito all'interno del consiglio di amministrazione; è composto da amministratori in possesso dei requisiti che la legge prescrive per il collegio sindacale. Tali amministratori non possono essere membri del comitato esecutivo e non devono avere attribuite deleghe o particolari cariche.
 
 ##### Società controllate e società collegate
 Si considerano società controllate le società che si configurano in una delle seguenti situazioni:
@@ -128,12 +126,11 @@ Si considerano società controllate le società che si configurano in una delle 
 - **controllo interno di fatto**: società il cui capitale sociale è posseduto da un'altra società in una percentuale tale da assicurare voti sufficienti per esercitare un'influenza dominante nell'assemblea ordinaria.
 - **controllo esterno contrattuale**: società che sono sotto influenza dominante di un'altra società in virtù di particolari vincoli contrattuali con essa.
 
-Per individuare una **"situazione di controllo"** si deve tener conto dei voti spettanti a società controllate; vedi ad esempio il caso in cui una società è indirettamente controllata, ovvero quando è sotto il controllo di una società controllata a sua volta direttamente da un'altra società; o per interposta persona.\
-Per l'analisi di questa situazione non devono trascurarsi le conseguenze connesse a partecipazione a sindacati di voto.\
-Invece si considerano **società collegate** le società quali un'altra società esercita un'influenza notevole, ovvero quando nell'assemblea ordinaria può essere esercitato almeno un quinto dei voti, un decimo se la società ha azioni quotate in borsa.
-
-###### Società controllate
 La società controllata non può sottoscrivere azioni o quote della società controllante, inoltre una società controllata non può acquistare azioni o quote della società controllante se non nei limiti degli utili distribuibili e delle riserve disponibili risultanti dall'ultimo bilancio regolarmente approvato. L'acquisto deve essere preventivamente autorizzato dall'assemblea e la società controllata non può esercitare il diritto di voto nelle assemblee della controllante.
+
+Per individuare una **"situazione di controllo"** si deve tener conto dei voti spettanti a società controllate; vedi ad esempio il caso in cui una società è indirettamente controllata, ovvero quando è sotto il controllo di una società controllata a sua volta direttamente da un'altra società; o per interposta persona. Per l'analisi di questa situazione non devono trascurarsi le conseguenze connesse a partecipazione a sindacati di voto. 
+
+Si considerano **società collegate** le società quali un'altra società esercita un'influenza notevole, ovvero quando nell'assemblea ordinaria può essere esercitato almeno un quinto dei voti, un decimo se la società ha azioni quotate in borsa.
 
 ###### Holding
 È una società capogruppo che controlla altre società mediante il possesso di partecipazioni azionarie. La società capogruppo, che si limita ad esercitare l'attività di direzione e controllo del gruppo senza svolgere nessuna attività di produzione o scambio, è definita **holding pura** e le società controllate definiscono **società operanti**. Al contrario se la società capogruppo svolge anche attività di produzione e scambio si definisce **holding mista**.\
@@ -141,13 +138,13 @@ Le holding hanno la possibilità di esercitare un controllo indiretto sulle soci
 Il controllo si manifesta attraverso un sistema "a cascata" in cui il soggetto al vertice può controllare direttamente o indirettamente molte imprese, giuridicamente autonome, che operano in diversi settori e/o in diversi mercati nazionali, oppure svolgono distinte fasi dello stesso processo produttivo. Le *holding* costituiscono uno strumento efficace per il controllo oligarchico dell'attività economica.
 
 #### Società a responsabilità limitata (S.R.L.)
-Sono società di capitali contraddistinte dalla limitazione della responsabilità dei soci, questo significa che per le obbligazioni sociali risponde solo la società con il suo patrimonio, come nelle S.P.A.. A differenza delle S.P.A. però, le quote dei soci non possono essere rappresentate da azioni. Il capitale minimo richiesto per la costituzione di una S.R.L. è di 10.000€ ciascuna quota di partecipazione non può essere inferiore ad un euro ed è liberamente trasferibile, salva contraria disposizione dello statuto. Inoltre almeno il 25% del capitale sottoscritto deve essere versato presso un istituto di credito al momento della costituzione della società. Questo modello societario permette di fruire del beneficio della responsabilità limitata ad imprese di dimensioni più modeste rispetto a quelle costituite sotto forma di S.P.A.. É prevista un'ampia autonomia statutaria riguardo alle forme organizzative, ai procedimenti decisionali della società e agli strumenti di tutela degli interessi dei soci. A differenza delle S.P.A. le S.R.L. non possono emettere obbligazioni.
+Sono società di capitali contraddistinte dalla limitazione della responsabilità dei soci, questo significa che per le obbligazioni sociali risponde solo la società con il suo patrimonio, come nelle S.P.A.. A differenza delle S.P.A. però, le quote dei soci non possono essere rappresentate da azioni. Il capitale minimo richiesto per la costituzione di una S.R.L. è di 10.000€ ciascuna quota di partecipazione non può essere inferiore ad un euro ed è liberamente trasferibile, salva contraria disposizione dello statuto. Inoltre almeno il 25% del capitale sottoscritto deve essere versato presso un istituto di credito al momento della costituzione della società. Questo modello societario permette di fruire del beneficio della responsabilità limitata ad imprese di dimensioni più modeste rispetto a quelle costituite sotto forma di S.P.A.. É prevista un'ampia autonomia statutaria riguardo alle forme organizzative, ai procedimenti decisionali della società e agli strumenti di tutela degli interessi dei soci. A differenza delle S.P.A., le S.R.L. non possono emettere obbligazioni.
 
 #### Società in accomandita per azioni (S.A.P.A.)
 Sono società di capitali caratterizzate dalla coesistenza di due diverse categorie di soci:
 
-- **soci accomandatari** che rispondono illimitatamente e solidamente, sia pure in via sussidiaria, di tutte le obbligazioni sociali
-- **soci accomandanti** che rispondono limitatamente alla sola quota conferita
+- **soci accomandatari** che rispondono illimitatamente e solidamente, sia pure in via sussidiaria, di tutte le obbligazioni sociali.
+- **soci accomandanti** che rispondono limitatamente alla sola quota conferita.
 
 Le quote di partecipazione dei soci sono costituite da azioni, le azioni degli accomandanti e quelle degli accomandatari non costituiscono categorie distinte di azioni. Di fatto è una S.P.A. modificata, nella quale il potere di gestione spetta di diritto ai soci accomandatari. È un modello societario poco diffuso, viene usato per lo più come holding da parte di grandi famiglie dell'imprenditoria italiana allo scopo di salvaguardare l'unità di gestione e controllo.
 

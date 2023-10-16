@@ -42,9 +42,7 @@ $$ROI=\frac{Reddito\ Operativo\ (EBIT)}{Valore\ contabile\ del\ capitale\ invest
 
 $$ROE=\frac{Utile\ Netto}{Valore\ contabile\ dell'investimento\ azionario\ nel\ progetto}$$
 
-Le componenti di questo metodo riflettono i valori contabili delle imposte, non i valori di mercato o dei flussi cassa. 
-Entrambi possono essere considerati al lordo o al netto di un'imposta. 
-Se il progetto ha una durata pluriennale, per entrambi bisogna considerare i valori medi del periodo.
+Le componenti di questo metodo riflettono i valori contabili delle imposte, non i valori di mercato o dei flussi cassa. Entrambi possono essere considerati al lordo o al netto di un'imposta. Se il progetto ha una durata pluriennale, per entrambi bisogna considerare i valori medi del periodo.
 
 ### Tempo di recupero
 Il **tempo di recupero**, anche detto *pay-back period* o *PBP*, è un metodo che basa la valutazione di un progetto sul numero di anni necessari affinché il flusso di cassa cumulativo previsto eguagli l'esborso iniziale.
@@ -98,10 +96,10 @@ L'**equivalente annuo**, in inglese *Annual Equivalent (AE)*, attraverso il segn
 
 $$AE = VAN\frac{i(1+i)^t}{(1+i)^t-1}$$
 
-Se l'$AE$ è $=0$ non si guadagna ne si perde, se è $>0$ si guadagna e l'investimento è pertanto accettabile, se è $<0$ si perde e l'investimento è pertanto inaccettabile. É utile se si stanno confrontando investimenti che hanno vita utile diversa, altrimenti è equivalente al confronto dei VAN dei rispettivi progetti.
+Se l'$AE$ è $=0$ non si guadagna ne si perde, se è $>0$ si guadagna e l'investimento è pertanto accettabile, se è $<0$ si perde e l'investimento è pertanto inaccettabile. È utile se si stanno confrontando investimenti che hanno vita utile diversa, altrimenti è equivalente al confronto dei VAN dei rispettivi progetti.
 
 ### Tasso interno di rendimento
-Il **tasso interno di rendimento (TIR)**, in inglese *Internal Rate of Return (IRR)*, è definito come quel tasso di interesse che rende identici i valori dei flussi positivi e negativi di un progetto. Il TIR esprime il rendimento effettivo di un progetto oltre il quale l'iniziativa non sarebbe economica, anche detto costo massimo della raccolta. Teoricamente è quel tasso di interesse che rende pari a zero il VAN:
+Il **tasso interno di rendimento (T.I.R.)**, in inglese *Internal Rate of Return (I.R.R.)*, è definito come quel tasso di interesse che rende identici i valori dei flussi positivi e negativi di un progetto. Il TIR esprime il rendimento effettivo di un progetto oltre il quale l'iniziativa non sarebbe economica, anche detto costo massimo della raccolta. Teoricamente è quel tasso di interesse che rende pari a zero il VAN:
 
 $$\sum_{t=0}^n\frac{F_t}{(1+TIR)^n} = 0$$
 

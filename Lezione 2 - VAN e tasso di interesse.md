@@ -10,7 +10,7 @@ Il fattore $\frac{1}{(1+i)^n}$ è detto anche fattore di attualizzazione o tasso
 
 ### Rischio e Valore Attuale
 
-Un azionista, in genere, per accettare un investimento rischioso deve essere sicuro di ottenere dal suddetto un tasso di rendimento più alto rispetto agli investimenti a rischio inferiore presenti sul mercato azionario. Questo si può tradurre come "a progetti di investimento a rischio elevato è richiesto un più elevato tasso di rendimento". Un tasso di rendimento maggiore significa anche un valore attuale minore e ciò è perfettamente in linea con l'assioma: "un euro sicuro vale più di un euro rischioso".
+Un azionista, in genere, per accettare un investimento rischioso deve essere sicuro di ottenere dal suddetto un tasso di rendimento più alto rispetto agli investimenti a rischio inferiore presenti sul mercato azionario. Questo si può tradurre come "a progetti di investimento a rischio elevato è richiesto un più elevato tasso di rendimento". Un tasso di rendimento maggiore significa anche un maggiore costo opportunità del capitale e di conseguenza un valore attuale minore e ciò è perfettamente in linea con l'assioma: "un euro sicuro vale più di un euro rischioso".
 
 ### Regola del tasso di rendimento
 
@@ -21,7 +21,8 @@ $$ Rendimento = \frac{Profitto}{Investimento} > Costo\ opportunita'\ del\ capita
 Dove il *costo opportunità del capitale* sarebbe il tasso di rendimento delle altre opzioni di investimento presenti sul mercato a parità di rischio.
 
 ### Interessi
-Gli interessi possono essere di due tipi:
+L'interesse è la somma che dev'essere pagata dal debitore per l'utilizzo del credito concessogli. In parole povere, corrisponde al compenso del creditore in seguito all'erogazione del prestito. Gli interessi possono essere di due tipi:
+
 - **Attivi**: sono gli interessi dei creditori verso la banca, cioè maturati dal cliente sulle somme depositate in banca.
 - **Passivi**: sono gli interessi dei debitori verso la banca, cioè dovuti dal cliente per l'utilizzo delle somme messe a disposizione dalla banca.
 
