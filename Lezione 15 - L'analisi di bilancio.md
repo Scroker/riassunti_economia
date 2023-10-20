@@ -86,16 +86,16 @@ Il R.O.D. è un indice che misura l'onerosità del capitale preso a prestito da 
 $$Costo\ del\ capitale\ di\ debito=\frac{Oneri\ finanziari}{Capitale\ di\ debito}$$
 
 ### La leva finanziaria
-La leva finanziaria viene utilizzata per spiegare come varia il R.O.E. al variare della struttura finanziaria dato un certo R.O.I. e un certo R.O.D.\
-Al contrario del R.O.I. l'indice di redditività del capitale proprio (R.O.E.) è influenzato dall'entità degli oneri finanziari sostenuti dall'azienda per remunerare i suoi finanziatori esterni.\
-L'indice di redditività del capitale proprio (R.O.E.) e l'indice di redditività del capitale investito (R.O.I.) sono tanto più divergenti quanto più alta è la partecipazione del capitale di credito al finanziamento dell'azienda.\
-La relazione tra i due indici di relatività viene denominata **effetto di leva finanziaria** ed è originata dallo scostamento fra il tasso di redditività del capitale investito e il costo del capitale di debito.\
+La leva finanziaria viene utilizzata per spiegare come varia il R.O.E. al variare della struttura finanziaria dato un certo R.O.I. e un certo R.O.D.
+Al contrario del R.O.I. l'indice di redditività del capitale proprio (R.O.E.) è influenzato dall'entità degli oneri finanziari sostenuti dall'azienda per remunerare i suoi finanziatori esterni.
+L'indice di redditività del capitale proprio (R.O.E.) e l'indice di redditività del capitale investito (R.O.I.) sono tanto più divergenti quanto più alta è la partecipazione del capitale di credito al finanziamento dell'azienda.
+La relazione tra i due indici di relatività viene denominata **effetto di leva finanziaria** ed è originata dallo scostamento fra il tasso di redditività del capitale investito e il costo del capitale di debito.
 L'effetto di leva finanziaria si manifesta in senso positivo se il R.O.I. è maggiore del R.O.D., in senso negativo se il R.O.D. è maggiore del R.O.I.
 $$ROE=\bigg{[}ROI+(ROI-ROD)*\frac{CT}{CN}\bigg{]}*(1-TF)$$
 Se R.O.I. > R.O.D. l'impresa è in grado di investire le risorse acquisite con il vincolo del debito ottenendo una redditività (R.O.I.) superiore all'onerosità (R.O.D) delle stesse.
-In questo caso il R.O.E. cresce all'aumentare dell'indebitamento.\
+In questo caso il R.O.E. cresce all'aumentare dell'indebitamento.
 Se R.O.I. < R.O.D. l'impresa investe le risorse acquisite con il vincolo del debito ottenendo una redditività (R.O.I.) inferiore all'onerosità (R.O.D.) delle risorse stesse.
-In questo caso il R.O.E. diminuisce all'aumentare dell'indebitamento.\
+In questo caso il R.O.E. diminuisce all'aumentare dell'indebitamento.
 Quando il R.O.I. è maggiore del R.O.D. significa che l'azienda sta effettuando degli investimenti che rendono più di quanto costi il capitale in prestito, viceversa, se il R.O.D. è superiore al R.O.I., significa che il capitale preso in prestito costa più di quanto rendono gli investimenti realizzati attraverso il medesimo capitale. L'eccessivo uso della leva finanziaria aumenta infatti il rischio di insolvenza poiché il pagamento degli interessi passivi e delle quote in conto capitale è un obbligo.
 
 ### Il sistema DuPont
