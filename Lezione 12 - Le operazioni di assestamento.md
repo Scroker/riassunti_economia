@@ -1,8 +1,5 @@
 # Operazioni di assestamento
-Le scritture di assestamento vengono redatte il 31 dicembre, prima della chiusura di tutti i conti derivanti dalla contabilità generale.\
-I saldi riportati dalla contabilità generale devono essere «assestati» nel rispetto del principio della competenza economica.\
-I costi e i ricavi rilevati non sempre si riferiscono all'anno di chiusura del bilancio, sono pertanto necessarie scritture di storno o integrazione per separare le quote di costo e di ricavo di competenza dell'esercizio in corso da quelle relative all'esercizio futuro. Sempre nel rispetto del principio di competenza economica, i costi devono essere correlati ai ricavi.\
-Sempre nel rispetto del principio di competenza economica, i costi devono essere correlati ai ricavi.\
+Le scritture di assestamento vengono redatte il 31 dicembre, prima della chiusura di tutti i conti derivanti dalla contabilità generale. I saldi riportati dalla contabilità generale devono essere «assestati» nel rispetto del principio della competenza economica. I costi e i ricavi rilevati non sempre si riferiscono all'anno di chiusura del bilancio, sono pertanto necessarie scritture di storno o integrazione per separare le quote di costo e di ricavo di competenza dell'esercizio in corso da quelle relative all'esercizio futuro. Sempre nel rispetto del principio di competenza economica, i costi devono essere correlati ai ricavi. 
 
 - **Scritture di rettifica**: eliminano costi o ricavi che, sebbene siano stati rilevati contabilmente, sono di competenza, in tutto o in parte, dell'esercizio futuro. Un esempio di tali scritture sono le *Rimanenze finali* o i *Risconti attivi e passivi*
 - **Scritture di integrazione**: aggiungono costi o ricavi che, sebbene di competenza dell'esercizio, non hanno ancora avuto una manifestazione numerata. Un esempio di tali scritture sono i *Ratei attivi e passivi*
